@@ -15,9 +15,9 @@ void pause() {
 
 
 void main() {
-	const char* text_2 = "Period 2";
+	const char* text_2 = "Period 2"; //lol
 	cout << text_2 << endl;
-	cout << 'h' << 'e' << 'L' << 'l' << 'o' << "world!" << "                                                                  " << "Zayam Tariq" << endl;
+	cout << 'h' << 'e' << 'L' << 'l' << 'o' << "world!" << "                                                                  " << "Zayam Tariq" << endl; //nice one
 		pause();
 	return;
 }
